@@ -3,32 +3,37 @@
         "id":"01",
         "name":"HTML",
         "img":"https://unsplash.com/photos/L8OnHwhCEE0",
-        "Details":"dhdh"
+        "Details":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
 
     },
     {
         "id":"02",
         "name":"CSS",
-        "img":"https://www.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_3346698.htm#query=css&position=33&from_view=search&track=sph"
+        "img":"https://www.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_3346698.htm#query=css&position=33&from_view=search&track=sph",
+        "Details":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
     },
     {
         "id":"03",
         "name":"JAVASCRIPT",
-        "img":"https://www.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_10782951.htm#query=js&position=0&from_view=search&track=sph"
+        "img":"https://unsplash.com/photos/6uneKLGrJPs",
+        "Details":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. "
     },
     {
         "id":"04",
         "name":"REACT",
-        "img":"https://www.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_12144978.htm#query=react%20js&position=16&from_view=search&track=sph"
+        "img":"https://www.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_12144978.htm#query=react%20js&position=16&from_view=search&track=sph",
+        "Details":"React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
     },
     {
         "id":"05",
-        "name":"FIREBASE",
-        "img":"https://www.freepik.com/free-vector/server-room-isometric-icon-database-connection-transfer-data-remote-cloud-storage-server-rack_4102278.htm#query=database&from_query=firebase&position=4&from_view=search&track=sph"
+        "name": "FIREBASE",
+        "img": "https://www.freepik.com/free-vector/server-room-isometric-icon-database-connection-transfer-data-remote-cloud-storage-server-rack_4102278.htm#query=database&from_query=firebase&position=4&from_view=search&track=sph",
+        "Details":"Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, phone numbers, popular federated identity providers like Google, Facebook and Twitter, and more."
     },
     {
         "id":"06",
         "name":"MONGODB",
-        "img":"https://www.freepik.com/free-vector/data-points-concept-illustration_8497396.htm#query=mongodb&position=1&from_view=search&track=ais"
+        "img":"https://www.freepik.com/free-vector/data-points-concept-illustration_8497396.htm#query=mongodb&position=1&from_view=search&track=ais",
+        "Details":"Mongoose is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Node.js JavaScript runtime environment. "
     }
 ]
