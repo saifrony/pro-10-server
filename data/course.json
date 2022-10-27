@@ -1,0 +1,34 @@
+[
+    {
+        "id":"01",
+        "name":"HTML",
+        "img":"https://unsplash.com/photos/L8OnHwhCEE0",
+        "Details":"dhdh"
+
+    },
+    {
+        "id":"02",
+        "name":"CSS",
+        "img":"https://www.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_3346698.htm#query=css&position=33&from_view=search&track=sph"
+    },
+    {
+        "id":"03",
+        "name":"JAVASCRIPT",
+        "img":"https://www.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_10782951.htm#query=js&position=0&from_view=search&track=sph"
+    },
+    {
+        "id":"04",
+        "name":"REACT",
+        "img":"https://www.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_12144978.htm#query=react%20js&position=16&from_view=search&track=sph"
+    },
+    {
+        "id":"05",
+        "name":"FIREBASE",
+        "img":"https://www.freepik.com/free-vector/server-room-isometric-icon-database-connection-transfer-data-remote-cloud-storage-server-rack_4102278.htm#query=database&from_query=firebase&position=4&from_view=search&track=sph"
+    },
+    {
+        "id":"06",
+        "name":"MONGODB",
+        "img":"https://www.freepik.com/free-vector/data-points-concept-illustration_8497396.htm#query=mongodb&position=1&from_view=search&track=ais"
+    }
+]
